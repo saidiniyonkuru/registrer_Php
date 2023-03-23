@@ -1,0 +1,75 @@
+button{
+    background-color: rgb(51, 54, 51);
+    color: aliceblue;
+    width: 5rem;
+    height: 2rem;
+    font-size: 13px;
+    padding: auto;
+    border-radius: 10px;
+    margin-left: 7rem;
+}
+ p {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 480px;
+
+}
+input{
+    border: 1px ;
+}
+span{
+    color: aliceblue;
+}
+h1{
+    color: rgb(8, 63, 73);
+    text-align: center;
+    margin-top: -1rem;
+    
+}
+hr{
+    width: 15rem;
+    margin-bottom: 2rem;
+
+}
+body{
+  align-items: center;
+  background-color: rgb(252, 249, 249);
+  
+}
+form{
+    background-color: rgb(255, 0, 191);
+    width: 30rem;
+    margin-left: 4rem;
+    padding: 3rem;
+    margin-top: 5rem;
+    box-shadow: 0px 3px 5px 3px rgb(15, 87, 243);
+    border-radius: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+}
+
+input{
+    width: 20rem;
+    margin-left: 5rem;
+}
+
+table{
+    background-color: rgb(86, 197, 212);
+    width: 39rem;
+    height: 12rem;
+    margin-left: 3rem;
+    margin-top: 5rem;
+    box-shadow: 2px 2px 4px 1px rgba(15, 87, 243);
+    color: rgb(19, 17, 16);
+}
+a{
+  text-decoration: none;
+  color: rgb(234, 227, 240);
+  
+}
+th{
+    background-color: rgb(192, 143, 53);
+    color: rgb(57, 14, 214);
+}
